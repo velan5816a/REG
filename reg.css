@@ -1,0 +1,23 @@
+label{
+    display: block;
+    padding: 10px;
+
+}
+form{
+    margin: 0px 350px 0px 350px;
+border-radius:20px;
+background-color: rgba(0, 255, 221, 0.664);
+}
+input[type=submit]{
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
+    border-radius:30px;
+}
+input[type=submit]:hover
+{
+    background-color: chocolate;
+    border-radius: 30px;
+    }
+    #submit{
+    padding:50px;
+    }
